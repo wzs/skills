@@ -8,7 +8,7 @@ Skills follow the [Agent Skills](https://agentskills.io/) format.
 ## Installation
 
 ```bash
-npx add-skill wzs/skills
+npx skills add wzs/skills
 ```
 
 ## Skill Structure

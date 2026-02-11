@@ -1,0 +1,4 @@
+interface:
+  display_name: "Decision-Grade Slides"
+  short_description: "Create elite executive slide narratives"
+  default_prompt: "Use $decision-grade-slides to build this presentation with top-tier structure and visual quality."

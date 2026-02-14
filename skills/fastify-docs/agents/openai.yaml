@@ -1,0 +1,4 @@
+interface:
+  display_name: "Fastify Documentation"
+  short_description: "Implement or debug Fastify with source-grounded documentation"
+  default_prompt: "Use this Fastify documentation skill when implementing or debugging Fastify services, verifying API behavior (routes, hooks, plugins, validation, request/reply lifecycle), planning migrations, or answering Fastify questions with source-grounded documentation."
